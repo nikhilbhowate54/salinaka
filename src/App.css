@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+* {
+  box-sizing: border-box;
+}
+#app {
+  width: 100%;
+}
+body {
+  min-height: 100vh;
+  font-family: Tajawal, Helvetica, Arial, sans-serif;
+  font-size: 1.6rem;
+  background: #f9f9f9;
+  font-weight: 700;
+  overflow-x: hidden;
+}
+
